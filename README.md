@@ -26,5 +26,5 @@ open `app/globals.css` to style the project
 
 ## Utilis
 
- `utils/utilities.tsx` this tsx is for changing language setting in site,code colors and theme selector. Just change utilities if you want to make some changes in theme,code colors and language
+ `utils/utilities.tsx` this tsx is for changing language setting of site,code colors and theme selector. Just change utilities if you want to make some changes in theme,code colors and language
 
