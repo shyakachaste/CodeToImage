@@ -8,20 +8,20 @@ function Footer() {
     <div className="flex items-center gap-10 py-16">
       <Link
         className="text-sm font-medium hover:text-slate-200 ease-in-out transition-all duration-500"
-        href="https://www.youtube.com/channel/UCn5s7JYuccuKDXN5Mo2XK5Q"
+        href="https://github.com/shyakachaste"
       >
-        Subscribe Here &nbsp;&#129109;
+        Follow me &nbsp;&#129109;
       </Link>
       <Link
-        href="https://thecodedealer.com"
+        href="https://shyakachaste.me/"
         className="flex items-center text-sm font-medium hover:text-slate-200 ease-in-out transition-all duration-500"
       >
         <span className="pr-2">Made by</span>
-        <Image src="logo-white.svg" width={20} height={20} alt="" />
-        <span className="pl-1 font-medium text-slate-200">TheCodeDealer</span>
+        
+        <span className="pl-1 font-medium text-slate-200">ShyakaChaste</span>
       </Link>
       <Link
-        href="https://github.com/Maclinz/code-to-img"
+        href="https://github.com/shyakachaste/CodeToImage"
         className="flex items-center text-sm font-medium hover:text-slate-200 ease-in-out transition-all duration-500"
       >
         Source Code Here &nbsp;&#129109;
